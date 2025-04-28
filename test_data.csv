@@ -1,0 +1,5 @@
+Date,Product,Category,Customer,Quantity,Sales
+2023-01-01,          Product A          ,Category 1,Customer X,100,100.50
+2023-01-02,Product B,Category 2,Customer Y                      ,50,50.25
+2023-01-03,Product C,Category 1,              Customer Z                      ,75,75.75
+2023-01-01,Product A,Category 1,Customer X,100,100.50
